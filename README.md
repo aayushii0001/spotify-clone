@@ -12,6 +12,14 @@ A responsive Spotify-inspired web music player built with HTML, CSS, and vanilla
 - 📚 **Album Library** - Browse and select from multiple album folders
 - 🏠 **Sidebar Navigation** - Quick access to home, search, and your library
 
+---
+
+## Preview
+<img width="1885" height="860" alt="image" src="https://github.com/user-attachments/assets/58ca3650-c12b-4d2b-b039-0c4ea450565c" />
+
+
+---
+
 ## Project Structure
 
 ```
